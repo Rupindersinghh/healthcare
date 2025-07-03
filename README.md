@@ -1,2 +1,3 @@
 Project Reflection
+
 This project utilized Linear Regression to predict an individual's weight based on their gender, height, and a body 'Index' from a healthcare dataset. After converting the 'Gender' feature to numerical form, the Linear Regression model was trained and evaluated, yielding a Mean Squared Error (MSE) of 266.64. This result indicates a reasonable initial fit and demonstrates how straightforward health metrics can be used for predictive modeling. While serving as a solid baseline, the model's performance suggests that incorporating additional features like age, activity level, or dietary habits, and exploring more advanced regression algorithms, could further enhance prediction accuracy in future iterations.
