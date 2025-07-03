@@ -1,1 +1,1 @@
-# healthcare
+Linear Regression model to predict weight based on gender, height, and body index using a healthcare dataset. Includes data preprocessing, visualizations, and evaluation using Mean Squared Error (MSE).
